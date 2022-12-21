@@ -495,3 +495,11 @@ and (-webkit-device-pixel-ratio : 3) {
 .fcc-btn:hover {
   background-color: #2e303d;
 }
+
+.btn-noti-activadas {
+  background-color: #3498db;
+}
+
+.btn-noti-desactivadas {
+  background-color: red;
+}
